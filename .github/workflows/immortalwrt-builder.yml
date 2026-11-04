@@ -11,7 +11,7 @@ env:
   CCACHE_MAXSIZE: 6G
   USE_CCACHE: 1
   REPO_URL: https://github.com/immortalwrt/immortalwrt
-  REPO_BRANCH: v24.10.4
+  REPO_BRANCH: v24.10.6
   FEEDS_CONF: feeds.conf.default
   CONFIG_FILE: openwrt-mod/config/minimum.config
   DIY_P1_SH: Actions-OpenWrt/diy-part1.sh
